@@ -1,0 +1,10 @@
+.panda-btn-custom{
+    width: 168px;
+    height: 52px;
+    background-color: #ff2279;
+    color: white;
+    border-radius: 8px;
+    padding: 14px 20px;
+    border: none;
+    text-align: center;
+}
